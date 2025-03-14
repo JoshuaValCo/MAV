@@ -52,8 +52,8 @@
             height: 100%;
             z-index: -1;
             opacity: 0.2; /* Para que las imágenes sean de fondo pero visibles */
-            background: url('C:/Users/vcyam/OneDrive/Escritorio/MAV/MAVVV.jpeg') left center / 35% no-repeat,
-                        url('C:/Users/vcyam/OneDrive/Escritorio/MAV/mav2.jpeg') right center / 35% no-repeat;
+            background: url('MAVVV.jpeg') left center / 35% no-repeat,
+                        url('mav2.jpeg') right center / 35% no-repeat;
         }
 
         footer {
@@ -90,7 +90,7 @@
         <h1>Adonai Villegas - Candidata a la Gobernación</h1>
         <h2>Movimiento Autónomo de Veracruz</h2>
         <h3>Por la dignidad de Veracruz, juntos somos MAV</h3>
-        <img src="C:/Users/vcyam/OneDrive/Escritorio/MAV/logoMAVVVV-Photoroom.png" class="logo">
+        <img src="logoMAVVVV-Photoroom.png" class="logo">
     </header>
 
     <div class="background-images"></div> 
@@ -107,7 +107,7 @@
             <li><strong>Desarrollo Económico:</strong> Fomentar el empleo y apoyar a emprendedores locales.</li>
         </ul>
 <div style="text-align: center;">
-	<img src="C:\Users\vcyam\OneDrive\Escritorio\MAV\WhatsApp Image 2025-03-13 at 7.33.24 AM (1).jpeg" 
+	<img src="WhatsApp Image 2025-03-13 at 7.33.24 AM (1).jpeg" 
 		style="width:500px;height:500px;">
 </div>
 
@@ -125,7 +125,8 @@
             </li>
         </ul>
 <div style="text-align: center;">
-	<img src="C:\Users\vcyam\OneDrive\Escritorio\MAV\poster.jpeg" 		style="width:400px;height:auto;">
+	<img src="poster.jpeg" 		
+		style="width:400px;height:auto;">
 </div>
 
 
