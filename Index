@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Candidatura de Adonai Villegas - MAV</title>
+    
+    <link rel="stylesheet" href="styles.css">
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            position: relative;
+        }
+
+        .logo {
+            position: absolute;
+            right: 20px;
+            top: 10px;
+            width: 150px;
+            height: 120px;
+        }
+
+        .main-content {
+            position: relative;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            z-index: 1;
+        }
+
+        .background-images {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            opacity: 0.2; /* Para que las imágenes sean de fondo pero visibles */
+            background: url('C:/Users/vcyam/OneDrive/Escritorio/MAV/MAVVV.jpeg') left center / 35% no-repeat,
+                        url('C:/Users/vcyam/OneDrive/Escritorio/MAV/mav2.jpeg') right center / 35% no-repeat;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #007bff;
+            color: white;
+        }
+
+        .social-links {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .social-links li {
+            display: flex;
+            align-items: center;
+        }
+
+        .social-links img {
+            width: 24px;
+            height: 24px;
+            margin-right: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Adonai Villegas - Candidata a la Gobernación</h1>
+        <h2>Movimiento Autónomo de Veracruz</h2>
+        <h3>Por la dignidad de Veracruz, juntos somos MAV</h3>
+        <img src="C:/Users/vcyam/OneDrive/Escritorio/MAV/logoMAVVVV-Photoroom.png" class="logo">
+    </header>
+
+    <div class="background-images"></div> 
+
+    <section class="main-content">
+        <h3>Conocenos</h3>
+        <p>Somos un partido apasionado por el servicio público y el bienestar social. Con una trayectoria de más de 10 años, Adonai Villegas junto con MAV se postula para la gobernación con el compromiso de mejorar la calidad de vida de todos los veracruzanos, por un Veracruz limpio y seguro.</p>
+
+        <h3>Propuestas</h3>
+        <ul>
+            <li><strong>Educación:</strong> Cívica y participativa.</li>
+            <li><strong>Salud:</strong> Mejorar los servicios de salud pública.</li>
+            <li><strong>Seguridad:</strong> Aplicación de denuncia ciudadana.</li>
+            <li><strong>Desarrollo Económico:</strong> Fomentar el empleo y apoyar a emprendedores locales.</li>
+        </ul>
+<div style="text-align: center;">
+	<img src="C:\Users\vcyam\OneDrive\Escritorio\MAV\WhatsApp Image 2025-03-13 at 7.33.24 AM (1).jpeg" 
+		style="width:500px;height:500px;">
+</div>
+
+
+        <h3>Redes Sociales</h3>
+        <p>Puedes seguir a MAV en...</p>
+        <ul class="social-links">
+            
+            </li>
+            <li><img src="facebook-logo.png" alt="Facebook">
+                <a href="https://facebook.com/SOMOS_MAV" target="_blank">Facebook</a>
+            </li>
+            <li><img src="instagram-logo.png" alt="Instagram">
+                <a href="https://instagram.com/SOMOS_MAV" target="_blank">Instagram</a>
+            </li>
+        </ul>
+<div style="text-align: center;">
+	<img src="C:\Users\vcyam\OneDrive\Escritorio\MAV\poster.jpeg" 		style="width:400px;height:auto;">
+</div>
+
+
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Movimiento Autónomo de Veracruz (MAV) <br> GOBERNACIÓN ADONAI</p>
+    </footer>
+
+</body>
+
+</html>
